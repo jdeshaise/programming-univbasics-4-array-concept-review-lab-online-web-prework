@@ -1,5 +1,19 @@
 def find_element_index(array, value_to_find)
-  # Add your solution here
+
+  array [1,5,7,3,9]
+  
+  counter = 0
+  b. = [1]
+  c. = [2]
+  d. = [3]
+  e. = [4]
+
+  value_to_find?
+
+  minvalue.b =[5]
+  maxvalue.e =[9]
+
+
 end
 
 def find_max_value(array)
