@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
 
   array [1,5,7,3,9]
-  
+
   counter = 0
   b. = [1]
   c. = [2]
